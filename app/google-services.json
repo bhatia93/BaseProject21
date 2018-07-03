@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "689032441496",
+    "firebase_url": "https://baseproject2-b3d72.firebaseio.com",
+    "project_id": "baseproject2-b3d72",
+    "storage_bucket": "baseproject2-b3d72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689032441496:android:d70d2493a9adc49a",
+        "android_client_info": {
+          "package_name": "com.example.esteplogic_android.baseproject2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689032441496-m20907r1sk0ciovh25a5p1j5fpa512da.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.esteplogic_android.baseproject2",
+            "certificate_hash": "8188d5439bfe8070dd064d68201eac66fdda852d"
+          }
+        },
+        {
+          "client_id": "689032441496-ik5aerjo7e8i8o0ejk73dvkmtg3gn9a2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt2dERfVmYeEDjQjLQ7GRp_jjoHBtcwGA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689032441496-ik5aerjo7e8i8o0ejk73dvkmtg3gn9a2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
